@@ -1,0 +1,31 @@
+.App {
+  display: block;
+  width: 800px;
+  height: 600x;
+  margin: 20px auto;
+  padding: 0 50px;
+  border: 1px solid black;
+}
+input{
+  display: block;
+  width: 300px;
+  height: 30px;
+  margin: 20px auto;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: center;
+}
+button{
+  position: relative;
+  left: 250px;
+  top: 20px;
+  width: 200px;
+  height: 30px;
+}
+p{
+  position: relative;
+  left: 520px;
+  top: -25px;
+  font-size: 18px;
+
+}
